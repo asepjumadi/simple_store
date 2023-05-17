@@ -13,7 +13,7 @@
 
 ## Database seeding on SIMPLE STORE 
 
-run php artisan db:seed for db seeding to database color ,size, and catgories produk,
+run php artisan db:seed for db seeding to database color ,size, and categories produk,
 
 
 ## Laravel Sponsors
